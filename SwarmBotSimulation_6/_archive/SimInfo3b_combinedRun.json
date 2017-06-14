@@ -1,0 +1,8 @@
+{
+
+ name: SimInfo,
+ robots:[{file: robot1.json,  count: 0},
+         {file: robot2.json, count: 100}],
+ parts: [{file: part5a.json, count: 140},{file: part5b.json, count: 140}
+]
+}

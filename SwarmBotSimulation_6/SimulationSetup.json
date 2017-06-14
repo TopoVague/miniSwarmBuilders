@@ -1,0 +1,6 @@
+{
+ name: SimInfo,
+ robots:[{file: robot7.json,  count: 25},{file: robot2.json, count: 0}],
+ parts:[{file: part7c.json, count: 200},{file: part7b.json, count: 0}],
+ boundaries:[{file: CustomBoundary4.json, count: 1}],
+}

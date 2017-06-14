@@ -1,0 +1,27 @@
+{
+
+ name: robot,
+ force: 200,
+ noise: 0.8, 
+ scale: 2,
+ table_friction: 3,
+ part_friction: .1,
+ density: 0.8,
+ restitution: 0.1,
+ color: {r:255, g:0, b:0},
+ 
+polygons: [
+		{poly:[{x=0.0 , y=10.177273},
+		{x=-11.514287 , y=5.088637},
+		{x=0.0 , y=0.0},
+		{x=11.514287 , y=5.088637},
+		{x=0.0 , y=10.177273},
+		]
+		},
+
+   
+     ]	 
+}
+
+
+
